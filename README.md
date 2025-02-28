@@ -16,7 +16,7 @@ Stork is an automated validation bot for the **Stork Oracle network**. It automa
 `npm install`
 
 
-Usage
+Usage - ``nano config.json``
 
 Run the bot:
 
