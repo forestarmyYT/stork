@@ -28,7 +28,7 @@ Run the bot:
 
 
 
-[GitHub Repository] - https://github.com/itsmesatyavir/stork
+[GitHub Repository] - https://github.com/itsmesatyavir
 
 This keeps it simple while covering all the essential details. Let me know if you need further tweaks!
 
