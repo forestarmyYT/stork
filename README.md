@@ -1,6 +1,6 @@
-Here is a clean and concise README.md:
+: forestarmy :
 
-# Stork - Automated Validation Bot for Stork Oracle Network
+# Stork - Forestarmy 
 
 Stork is an automated validation bot for the **Stork Oracle network**. It automates authentication, data retrieval, and interaction with Stork services.
 
@@ -13,23 +13,22 @@ Stork is an automated validation bot for the **Stork Oracle network**. It automa
 
 2. Install dependencies:
 
-npm install
-
+`npm install`
 
 
 Usage
 
 Run the bot:
 
-npm start
+`npm start`
 
-License
 
-This project is licensed under the MIT License.
 
-Repository
+## This project is licensed under the MIT License.
 
-GitHub Repository
+
+
+[GitHub Repository] - https://github.com/itsmesatyavir/stork
 
 This keeps it simple while covering all the essential details. Let me know if you need further tweaks!
 
