@@ -8,7 +8,7 @@ Stork is an automated validation bot for the **Stork Oracle network**. It automa
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/itsmesatyavir/stork.git
+   git clone https://github.com/forestarmyYT/stork.git
    cd stork
 
 2. Install dependencies:
